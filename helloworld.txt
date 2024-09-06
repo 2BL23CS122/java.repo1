@@ -1,2 +1,6 @@
 welcome to git lab
+<<<<<<< HEAD
 hello this is master branch
+=======
+hello world feature branch
+>>>>>>> feature
